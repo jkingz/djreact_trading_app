@@ -25,7 +25,7 @@ SECRET_KEY = 'kud1+au(1!i$=s22@!=gvblw_9t&#(0kdt=#=_3txq(g-ok-mm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['trading-clone.herokuapp.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
